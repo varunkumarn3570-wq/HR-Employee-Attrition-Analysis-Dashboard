@@ -35,6 +35,7 @@ The goal is to help HR leaders make **data‑driven decisions** to reduce turnov
 
 ---
 # Dashboard image
+<img width="1366" height="768" alt="Dashboard Preview" src=image.png>
 
 
 
